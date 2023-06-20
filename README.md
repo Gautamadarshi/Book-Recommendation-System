@@ -51,3 +51,5 @@ The different recommender systems built include:
     Collaborative filtering using k-nearest neighbors [kNN]
 
 The project demonstrated the potential of these techniques to generate personalized book recommendations for users.
+
+# Author
