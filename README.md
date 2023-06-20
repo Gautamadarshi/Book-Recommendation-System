@@ -54,3 +54,5 @@ The project demonstrated the potential of these techniques to generate personali
 
 # Author
 https://github.com/Gautamadarshi
+Colab Link
+https://colab.research.google.com/drive/1IrzHFnUBYDvxht9cgoYdjQb1RtpH_jB1?usp=sharing
